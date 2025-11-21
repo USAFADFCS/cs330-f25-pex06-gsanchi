@@ -4,7 +4,7 @@
 -- name: Gia Sanchirico
 
 {- DOCUMENTATION:
-
+Used Elijah's test code to test my code and also received a copious amount of ei from Dr. B.
 -}
 
 unKnot :: [(Char, Char)] -> String
